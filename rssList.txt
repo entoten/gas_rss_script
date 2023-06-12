@@ -1,0 +1,4 @@
+https://daily-gadget.net/feed/
+https://rss.itmedia.co.jp/rss/2.0/topstory.xml
+https://dev.classmethod.jp/feed/
+https://www.publickey1.jp/atom.xml
